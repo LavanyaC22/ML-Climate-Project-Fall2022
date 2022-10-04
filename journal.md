@@ -1,7 +1,7 @@
 10/03
 
 - received feedback from prof and ta
-- looked at other rsearch papers to finalize project ideas and data 
+- looked at other research papers to finalize project ideas and data 
 
 
 9/22
