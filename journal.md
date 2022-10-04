@@ -1,3 +1,9 @@
+10/03
+
+- received feedback from prof and ta
+- looked at other rsearch papers to finalize project ideas and data 
+
+
 9/22
 
 - updated abstract to include abstracts for both ideas
