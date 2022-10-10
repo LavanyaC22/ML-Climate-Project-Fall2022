@@ -1,3 +1,7 @@
+10/10
+
+- looked at other research papers to finalize project idea 1
+
 10/03
 
 - received feedback from prof and ta
