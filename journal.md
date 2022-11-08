@@ -1,3 +1,8 @@
+11/08
+- further pre processing of agricultural yield data
+- next steps: aligning temporal and spatial scale of climate data from AgERA5 to agricultural yield data
+
+
 11/03
 - added file for downloading data from AgERA5
 
