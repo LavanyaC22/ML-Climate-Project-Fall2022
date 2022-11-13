@@ -1,3 +1,9 @@
+11/11
+- met with Daphne to discuss issue with temporal and spatial scale of data
+- next steps: narrow down production zone in each country in order to select climate data and aggregate climate data over region 
+- once all data is processed, build regression based and/or tree based model
+
+
 11/08
 - further pre processing of agricultural yield data
 - next steps: aligning temporal and spatial scale of climate data from AgERA5 to agricultural yield data
