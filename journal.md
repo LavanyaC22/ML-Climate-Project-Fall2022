@@ -1,3 +1,6 @@
+11/27
+- uploaded list of production regions with latitude and longitude information for getting data from AgERA5
+
 11/23
 - narrowed down production zone based on existing papers from 1980s-1990s
 
