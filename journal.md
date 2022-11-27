@@ -1,3 +1,7 @@
+11/23
+- narrowed down production zone based on existing papers from 1980s-1990s
+
+
 11/11
 - met with Dafne to discuss issue with temporal and spatial scale of data
 - next steps: narrow down production zone in each country in order to select climate data and aggregate climate data over region 
