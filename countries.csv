@@ -1,11 +1,11 @@
-﻿Country,North,South,West,East
-Angola,,,,
-"China, mainland",,,,
-Ethiopia,,,,
-Indonesia,,,,
-Malawi,,,,
-Nigeria,,,,
-Uganda,,,,
-United Republic of Tanzania,,,,
-United States of America,,,,
-Viet Nam,,,,
+﻿Country,Regions,North,South,West,East
+Angola,North central region,-6,-12,14,20
+"China, mainland","Sichuan, Henan, Chongqing Anhui, Guangdong, Shandong, Hunan, Guangxi, Fujian, Yunna, Hubei, Hebei, Jiangxi, Zhejiang, Jiangsu",42,18,97,124
+Ethiopia,"South, southwestern, eastern parts",11,2,34,48
+Indonesia,"Java Island, West Papua, North Sumatra, East Nusa Tenggara",4,-10,97,135
+Malawi,Southern and central regions,-12,-17,32,36
+Nigeria,"Rivers, Cross River, Kwara Plateau, Gongola states",11,4,2,13
+Uganda,"Apac, Mbale, Kabale, Gulu, Iganga, Mpigi, Luwero, Kabaole, Arua",4,-2,29,35
+United Republic of Tanzania,"near Lake Victoria - Ukerewe, Musoma, Bunda, Serengeti, Tarime",-1,-3,32,35
+United States of America,"North Carolina, Louisianna, Mississippi, California",42,25,-124,-74
+Viet Nam,"Red Rivers Delta, Northern Midland, Northern Central region",23,16,102,108
