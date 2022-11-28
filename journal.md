@@ -1,5 +1,7 @@
 11/27
 - updated list of countries with production regions and latitude and longitude information for getting data from AgERA5
+- updated file for downloading data from AgERA5 to get data from all countries, years and variables
+- files downloaded are in NC format - need to convert to tabular data that can be further processed 
 
 11/23
 - narrowed down production zone based on existing papers from 1980s-1990s
