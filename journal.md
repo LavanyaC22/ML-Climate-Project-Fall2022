@@ -1,3 +1,8 @@
+11/30
+- uploaded file for processing data downloaded from AgERA5
+- next steps: once all data has been downloaded (currently only 3 countries have been downloaded), process them using this file
+
+
 11/27
 - updated list of countries with production regions and latitude and longitude information for getting data from AgERA5
 - updated file for downloading data from AgERA5 to get data from all countries, years and variables
