@@ -61,3 +61,5 @@ for country in list(countries["Country"]):
             #aggregate over month to get monthly average value of variable and store in 
             for month, v in monthly_var.items():
                 df.loc[(df["Country"]==country) & (df["Year"] == int(year)), variable+"_"+month] = np.mean(v)
+
+df.to_csv("yield_and_climate_data.csv")
