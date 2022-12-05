@@ -1,9 +1,15 @@
+12/05
+- more EDA and further processed data
+- implemented regression and tree based models to predict yield
+- worked on presentation
+
+
 12/04
 - uploaded EDA of processed data
 
 12/03
 - finished downloading and processing climate data from AgERA4
-- raw files can be accessed here: 
+- raw files can be accessed here: https://drive.google.com/file/d/1cLRvhx9XZB-iQlnyl9oBgcigPk27chGk/view?usp=sharing
 
 
 11/30
