@@ -1,3 +1,11 @@
+12/04
+- uploaded EDA of processed data
+
+12/03
+- finished downloading and processing climate data from AgERA4
+- raw files can be accessed here: 
+
+
 11/30
 - uploaded file for processing data downloaded from AgERA5
 - next steps: once all data has been downloaded (currently only 3 countries have been downloaded), process them using this file
@@ -5,6 +13,7 @@
 
 11/27
 - updated list of countries with production regions and latitude and longitude information for getting data from AgERA5
+- map of production regions can be accessed here: https://www.google.com/maps/d/edit?mid=18_4lE3ifXs3lbaH939dpu8M3VtErJac&usp=sharing
 - updated file for downloading data from AgERA5 to get data from all countries, years and variables
 - files downloaded are in NC format - need to convert to tabular data that can be further processed 
 
