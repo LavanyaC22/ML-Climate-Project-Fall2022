@@ -1,3 +1,7 @@
+12/07
+- adding more data points by including 10 more countries and redefining existing regions to be seperate states
+
+
 12/05
 - more EDA and further processed data
 - implemented regression and tree based models to predict yield
