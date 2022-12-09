@@ -1,5 +1,10 @@
+12/08
+- updated code for downloading data from AgERA5
+- uploaded data for newly defined regions
+
+
 12/07
-- adding more data points by including 10 more countries and redefining existing regions to be seperate states
+- based on feedback from presentation, adding more data points by including 10 more countries and redefining existing regions to be seperate states
 
 
 12/05
