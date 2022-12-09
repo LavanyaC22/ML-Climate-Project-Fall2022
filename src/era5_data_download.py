@@ -38,7 +38,7 @@ for country in list(countries["Country"]):
                       'format': 'zip',
                       'variable': variable,
                       'statistic': '24_hour_mean',
-                      'year': year,
+                      'year': str(year),
                       'month':  [
                           '01', '02', '03',
                           '04', '05', '06',
@@ -65,4 +65,4 @@ for country in list(countries["Country"]):
                           int(countries.loc[countries["Country"] == country, "East"]), 
                       ],
                   },
-                  country+"_"+variable+"_"+year+".zip")
+                  country+"_"+variable+"_"+str(year)+".zip")
