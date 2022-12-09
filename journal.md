@@ -1,6 +1,7 @@
 12/08
 - updated code for downloading data from AgERA5
 - uploaded data for newly defined regions
+- updated code for processing yield data for regions and uploaded data
 
 
 12/07
