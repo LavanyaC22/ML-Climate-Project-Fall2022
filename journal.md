@@ -1,7 +1,16 @@
+12/12
+- updated code for processing climate data
+- started processing climate data for regions
+- updated EDA
+- updated modeling
+
+12/11
+- finished downloading climate data
+
 12/08
 - updated code for downloading data from AgERA5
 - uploaded data for newly defined regions
-- updated code for processing yield data for regions and uploaded data
+- updated code for processing yield data for regions
 
 
 12/07
