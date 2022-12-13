@@ -1,3 +1,11 @@
+12/13
+- processing climate data based on regions turned out to be more computationally expensive in terms of time and space due to area considered and thus the idea was dropped. for example, processing climate data for one variable over 1979-2020 for China which has 19 regions is estimated to take 40 days while processing climate data for one variable over 1979 - 2020 for Rwanda which has 10 regions is estimated to take 60 hours (lower bound). 
+- instead processing climate data at country level as this is more time and space efficient - ending up with .... datapoints for analysis.
+- reran EDA with new dataset
+- reran modeling with new dataset
+- worked on report
+
+
 12/12
 - updated code for processing climate data
 - started processing climate data for regions
@@ -5,7 +13,7 @@
 - updated modeling
 
 12/11
-- finished downloading climate data
+- finished downloading climate data for newly defined regions
 
 12/08
 - updated code for downloading data from AgERA5
