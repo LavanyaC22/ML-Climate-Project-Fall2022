@@ -1,3 +1,7 @@
+12/15
+- updated abstract
+- updated and uploaded report
+
 12/14
 - added models to predict production quantity
 - added grid search and random search cross validation to find best model 
