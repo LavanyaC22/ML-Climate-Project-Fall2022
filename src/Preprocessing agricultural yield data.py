@@ -11,13 +11,13 @@ country_data = pd.read_csv("countries.csv")
 #clean up regions dataframe
 region_data.loc[region_data["Country"] == 'United States of America\xa0', "Country"] = "United States of America"
 
-
 countries = list(country_data["Country"])
 regions = list(region_data["Region"])
 
 result_dict_country = {"Country":[], "Year":[]}
 result_dict_region = {"Region":[], "Year":[], "Country":[]}
 
+#add rows corresponding to country, year and region to dataframes
 for year in range(1961, 2021):  
     for country in countries:
         result_dict_country["Country"].append(country)
@@ -43,8 +43,6 @@ for idx, row in yield_data.iterrows():
 for idx, row in result_df_region.iterrows():
     perc = region_data.loc[(region_data["Region"]==row["Region"]), "Percentage"].iloc[0]
     for val in ["Production", "Area harvested", "Yield"]:
-        #print(perc, result_df_country.loc[(result_df_country["Country"]==row["Country"]) & (result_df_country["Year"]==row["Year"]), val])
-        #row[val] = perc*result_df_country.loc[(result_df_country["Country"]==row["Country"]) & (result_df_country["Year"]==row["Year"]), val]
         result_df_region.at[idx, val] = perc*(result_df_country.loc[(result_df_country["Country"]==row["Country"]) & (result_df_country["Year"]==row["Year"]), val]).iloc[0]
 
 
